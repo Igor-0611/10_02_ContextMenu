@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10_02_ContextMenu</string>
+    <string name="input_text_hint">Введите оценку</string>
+    <string name="menu_change_color_title">Цветовое качество</string>
+    <string name="menu_exit_program_title">Выход из приложения</string>
+    <string name="random_number_text">Случайное число</string>
+    <string name="random_mode_text">Режим рандомного числа</string>
+    <string name="error_estimation_text">Ошибка оценки</string>
+</resources>
